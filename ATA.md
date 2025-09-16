@@ -1,6 +1,6 @@
 | Nome  | Atividades Feitas | Carga Horária |
 |-------|-------|---------------|
-| Davih G. Duque | * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
+| Davih G. Duque | * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 20h |
 ||||
 | Fabiana S. Soares| * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
 ||||
@@ -10,8 +10,12 @@
 ||||
 | Lucas O. Fonseca | * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
 ||||
-| Vitor C. R. Francisco | * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
+| Vitor C. R. Francisco | * pesquisa sobre cybersecurity<br>* Revisão do documentação<br>* Implementação do protocolo DHCP na sede e documentação do processo<br>* Configuração da Wan e documentação do processo | 50h |
 
 
 
 
+- 
+- 
+-  
+- 
