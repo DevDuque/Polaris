@@ -2,7 +2,7 @@
 |-------|-------|---------------|
 | Davih G. Duque | * Criação do esboço de LAN<br>* Organização do Arquivo PKT<br>* Delegação de Tarefas<br>* Criação de logo & Criação do documento de Persona<br>| 33h |
 ||||
-| Fabiana S. Soares| * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
+| Fabiana S. Soares| * Criação do Campus de Contagem<br>* Configuração de VLAN<br>* Documentação de Pesquisa do Projeto<br> | 20h |
 ||||
 | Filipe A. Costa | * Revisão da documentação<br>* Implementação de serviços DHCP, DNS, HTTP, VLANs, cabeamentos e dispositivos.<br>* Documentação de Protótipo e descrição de implementações na documentação.<br> | 25h |
 ||||
