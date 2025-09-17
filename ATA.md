@@ -6,7 +6,7 @@
 ||||
 | Filipe A. Costa | * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
 ||||
-| Leonardo G. G. Junior | * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
+| Leonardo G. G. Junior | * Pesquisa sobre Cybersecurity<br>* Revisão da documentação<br>* Auxílio na configuração da WAN<br>* Auxílio na criação lógica do projeto<br>* Auxílio na criação da topologia do projeto | 50h |
 ||||
 | Lucas O. Fonseca | * Pesquisa sobre DHCP e inventário de Itens<br>* Revisão de documentação<br>* Auxilio na configuração da WAN e VLAN<br>* Criação do Campus Betim no Cisco<br>* Preenchimento do Inventário e cálculo de links | 20h |
 ||||
