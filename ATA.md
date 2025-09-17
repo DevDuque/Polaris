@@ -4,7 +4,7 @@
 ||||
 | Fabiana S. Soares| * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
 ||||
-| Filipe A. Costa | * Revisão da documentação<br>* Implementação de serviços DHCP, DNS, HTTP, VLANs, cabeamentos e dispositivos.<br>* Documentação de Protótipo e descrição de implementações na documentação.<br> | 20h |
+| Filipe A. Costa | * Revisão da documentação<br>* Implementação de serviços DHCP, DNS, HTTP, VLANs, cabeamentos e dispositivos.<br>* Documentação de Protótipo e descrição de implementações na documentação.<br> | 30h |
 ||||
 | Leonardo G. G. Junior | * Pesquisa sobre Cybersecurity<br>* Revisão da documentação<br>* Auxílio na configuração da WAN<br>* Auxílio na criação lógica do projeto<br>* Auxílio na criação da topologia do projeto | 30h |
 ||||
