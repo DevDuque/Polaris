@@ -1,6 +1,6 @@
 | Nome  | Atividades Feitas | Carga Horária |
 |-------|-------|---------------|
-| Davih G. Duque | * Criação do esboço de LAN<br>* Organização do Arquivo PKT<br>* Delegação de Tarefas<br>* Criação de logo & Criação do documento de Persona<br>* | 30h |
+| Davih G. Duque | * Criação do esboço de LAN<br>* Organização do Arquivo PKT<br>* Delegação de Tarefas<br>* Criação de logo & Criação do documento de Persona<br>| 33h |
 ||||
 | Fabiana S. Soares| * Y<br>* X<br>* Y<br>* X<br>* Y<br>*X | 50h |
 ||||
